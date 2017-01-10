@@ -1,0 +1,51 @@
+body {
+	margin-top: 50px; 
+}
+
+.container {
+	width: 960px;
+}
+
+.navbar-inverse {
+    background-color: #f5f5f5;
+	border-color: #f5f5f5;
+}
+
+.navbar-brand {
+	background: url(../img/icon_navigation-laurel.svg) center no-repeat;  
+	margin-right: 6px
+}
+
+.killer-logo {
+    width: 960px;
+    height: 120px;
+    background-image: url(../img/logo_a-list-apart.svg);
+	margin: 60px auto;
+}
+
+p.displayed {
+	width: auto;
+	margin: 0 40%; 
+}
+
+#work-remote {
+	width: 100%; 
+}
+
+.inline-items li{
+	list-style: none;
+	display: inline-block;
+    margin: 10px;
+}
+
+section > .inline-items {
+	background-color: lightgray;
+}
+
+.partner-promos li {
+	list-style: none; 
+}
+
+.tail {
+	font-size: 60px; 
+}
